@@ -1,0 +1,20 @@
+# Environments & Cache
+hons_env/
+bin/
+lib/
+lib64/
+include/
+pyvenv.cfg
+.ipynb_checkpoints/
+__pycache__/
+
+# Large Astronomical Catalogs & Raw Data
+*.fits
+*.dat
+*.dat.gz
+*.csv
+*.txt
+
+# Log & Shell Files
+*.log
+*.sh
